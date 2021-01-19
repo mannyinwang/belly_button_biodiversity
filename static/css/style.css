@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url(../images/Navelgazing.jpg)
+}
+.jumbotron h1{
+    color: bisque;
+    text-align: center;
+}
+
+.jumbotron p{
+    color: bisque;
+    text-align: center;
+}
+.panel-body h6{
+    font-size: medium;
+}
